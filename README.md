@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Sophie...
-#Pronouns: She/Her
+Pronouns: She/Her
 
  I'm a full-stack developer with a passion for front-end development and a strong emphasis on UX. I thrive on tackling complex challenges and creating beautiful, intuitive user interfaces.
 
