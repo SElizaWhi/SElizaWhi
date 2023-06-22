@@ -1,5 +1,9 @@
 ### Hi there 👋 I'm Sophie...
+#Pronouns: She/Her
+
  I'm a full-stack developer with a passion for front-end development and a strong emphasis on UX. I thrive on tackling complex challenges and creating beautiful, intuitive user interfaces.
+
+Constantly learning with ![FreeCodeCamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)
 
 ## Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -9,6 +13,8 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
 
 ## Currently learning
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
@@ -22,6 +28,7 @@
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
 </a>
 
+### Always looking for something new to work on!
 
 <!--
 **SElizaWhi/SElizaWhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
